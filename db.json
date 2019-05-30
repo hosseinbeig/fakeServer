@@ -1,4 +1,4 @@
-Products = [
+[
   {
     id: 1,
     title: 'COOLPIX B500 Digital ',
@@ -72,16 +72,3 @@ Products = [
     total: 0
   }
 ];
-
-detailProduct = {
-  id: 55,
-  title: 'Nikon 5500',
-  brand: 'Kiriko',
-  price: 5558,
-  description:
-    'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at purus pulvinar, placerat turpis ac, interdum metus. In eget massa sed enim hendrerit auctor a eget.',
-  image: 'images/camera7.jpg',
-  inCart: false,
-  count: 0,
-  total: 0
-};
