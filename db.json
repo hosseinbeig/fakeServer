@@ -1,4 +1,4 @@
-export const storeProducts = [
+Products = [
   {
     id: 1,
     title: 'COOLPIX B500 Digital ',
@@ -73,7 +73,7 @@ export const storeProducts = [
   }
 ];
 
-export const detailProduct = {
+detailProduct = {
   id: 55,
   title: 'Nikon 5500',
   brand: 'Kiriko',
